@@ -43,7 +43,7 @@ Coming soon.
 
 ### Acknowledgments
 
-The main framework of this codebase is build upon [CDVAE](https://github.com/txie-93/cdvae). 
+The main framework of this codebase is built upon [DiffCSP](https://github.com/jiaor17/DiffCSP), [MatAltMag](https://github.com/zfgao66/MatAltMag/tree/main), [MEGNet](https://github.com/davidtangGT/MEGNET), and [ALIGNN](https://github.com/usnistgov/alignn).
 
 ### Citation
 
