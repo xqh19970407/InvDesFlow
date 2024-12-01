@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       EuTiCN10
+_chemical_formula_sum              "Eu1 Ti1 C1 N10"
+_cell_length_a       3.36119
+_cell_length_b       6.72659
+_cell_length_c       13.7908
+_cell_angle_alpha    61.5848
+_cell_angle_beta     65.2677
+_cell_angle_gamma    67.0545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.75863  0.73273  0.79036  1.0000
+  Ti  Ti1       1.0  0.09178  0.42238  0.04062  1.0000
+  C   C1        1.0  0.80034  0.18460  0.80544  1.0000
+  N   N1        1.0  0.22332  0.70075  0.55594  1.0000
+  N   N2        1.0  0.87223  0.23904  0.23506  1.0000
+  N   N3        1.0  0.34165  0.61694  0.49261  1.0000
+  N   N4        1.0  0.56473  0.57524  0.99118  1.0000
+  N   N5        1.0  0.76962  0.72313  0.17961  1.0000
+  N   N6        1.0  0.52424  0.31203  0.86312  1.0000
+  N   N7        1.0  0.61179  0.82629  0.23543  1.0000
+  N   N8        1.0  0.06111  0.06473  0.75109  1.0000
+  N   N9        1.0  0.77858  0.14019  0.33020  1.0000
+  N   N10       1.0  0.36197  0.19108  0.97884  1.0000

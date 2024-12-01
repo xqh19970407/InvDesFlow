@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Np2TiC6N4
+_chemical_formula_sum              "Np2 Ti1 C6 N4"
+_cell_length_a       3.46007
+_cell_length_b       6.13798
+_cell_length_c       9.05434
+_cell_angle_alpha    91.7122
+_cell_angle_beta     107.053
+_cell_angle_gamma    91.3204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.78456  0.04390  0.08094  1.0000
+  Np  Np2       1.0  0.25501  0.53331  0.01629  1.0000
+  Ti  Ti1       1.0  0.03920  0.08370  0.50279  1.0000
+  C   C1        1.0  0.34688  0.77915  0.40916  1.0000
+  C   C2        1.0  0.42654  0.97923  0.37068  1.0000
+  C   C3        1.0  0.19923  0.95179  0.72107  1.0000
+  C   C4        1.0  0.34518  0.36107  0.45618  1.0000
+  C   C5        1.0  0.34754  0.57711  0.43517  1.0000
+  C   C6        1.0  0.42703  0.20686  0.33668  1.0000
+  N   N1        1.0  0.25120  0.86368  0.84249  1.0000
+  N   N2        1.0  0.82253  0.71711  0.09318  1.0000
+  N   N3        1.0  0.38847  0.25534  0.18485  1.0000
+  N   N4        1.0  0.69924  0.32324  0.95951  1.0000

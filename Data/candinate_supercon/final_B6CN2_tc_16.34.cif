@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       B6CN2
+_chemical_formula_sum              "B6 C1 N2"
+_cell_length_a       2.54006
+_cell_length_b       3.06201
+_cell_length_c       9.49404
+_cell_angle_alpha    95.3108
+_cell_angle_beta     97.7188
+_cell_angle_gamma    114.463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.09091  0.25452  0.77490  1.0000
+  B   B2        1.0  0.89019  0.57659  0.04866  1.0000
+  B   B3        1.0  0.32815  0.80585  0.70033  1.0000
+  B   B4        1.0  0.68236  0.75380  0.45957  1.0000
+  B   B5        1.0  0.55912  0.67987  0.28257  1.0000
+  B   B6        1.0  0.57708  0.11015  0.89170  1.0000
+  C   C1        1.0  0.32828  0.55668  0.94541  1.0000
+  N   N1        1.0  0.22564  0.76327  0.53653  1.0000
+  N   N2        1.0  0.00362  0.64673  0.20438  1.0000

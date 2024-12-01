@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Eu4ReCN7
+_chemical_formula_sum              "Eu4 Re1 C1 N7"
+_cell_length_a       4.87627
+_cell_length_b       6.62693
+_cell_length_c       10.7558
+_cell_angle_alpha    62.1218
+_cell_angle_beta     48.1774
+_cell_angle_gamma    70.8888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.22880  0.19907  0.92340  1.0000
+  Eu  Eu2       1.0  0.67738  0.73832  0.45983  1.0000
+  Eu  Eu3       1.0  0.20533  0.27648  0.27562  1.0000
+  Eu  Eu4       1.0  0.17400  0.27373  0.60979  1.0000
+  Re  Re1       1.0  0.63810  0.77901  0.12877  1.0000
+  C   C1        1.0  0.14240  0.71737  0.85175  1.0000
+  N   N1        1.0  0.62801  0.07764  0.01422  1.0000
+  N   N2        1.0  0.75818  0.10664  0.23450  1.0000
+  N   N3        1.0  0.37896  0.85752  0.72223  1.0000
+  N   N4        1.0  0.89564  0.57027  0.98567  1.0000
+  N   N5        1.0  0.67482  0.35105  0.59587  1.0000
+  N   N6        1.0  0.32414  0.68144  0.36604  1.0000
+  N   N7        1.0  0.64313  0.18770  0.34910  1.0000

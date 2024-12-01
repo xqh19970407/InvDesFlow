@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TiReBN6
+_chemical_formula_sum              "Ti1 Re1 B1 N6"
+_cell_length_a       2.87923
+_cell_length_b       3.58806
+_cell_length_c       11.5766
+_cell_angle_alpha    103.432
+_cell_angle_beta     77.9884
+_cell_angle_gamma    90.4545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50171  0.76966  0.49650  1.0000
+  Re  Re1       1.0  0.28459  0.85721  0.76227  1.0000
+  B   B1        1.0  0.13786  0.71624  0.93032  1.0000
+  N   N1        1.0  0.08261  0.39092  0.39860  1.0000
+  N   N2        1.0  0.92892  0.71199  0.06351  1.0000
+  N   N3        1.0  0.05872  0.08556  0.43271  1.0000
+  N   N4        1.0  0.76982  0.72260  0.16217  1.0000
+  N   N5        1.0  0.24008  0.38069  0.83690  1.0000
+  N   N6        1.0  0.88833  0.81336  0.63502  1.0000

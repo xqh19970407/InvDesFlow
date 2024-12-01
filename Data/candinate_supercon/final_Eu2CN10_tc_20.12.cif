@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Eu2CN10
+_chemical_formula_sum              "Eu2 C1 N10"
+_cell_length_a       9.11806
+_cell_length_b       9.15252
+_cell_length_c       7.89465
+_cell_angle_alpha    64.5664
+_cell_angle_beta     47.0397
+_cell_angle_gamma    35.9484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.83217  0.64953  0.62825  1.0000
+  Eu  Eu2       1.0  0.34443  0.68832  0.32166  1.0000
+  C   C1        1.0  0.55717  0.18206  0.51426  1.0000
+  N   N1        1.0  0.74048  0.09061  0.96074  1.0000
+  N   N2        1.0  0.92705  0.05278  0.77491  1.0000
+  N   N3        1.0  0.35301  0.93426  0.03061  1.0000
+  N   N4        1.0  0.09686  0.18718  0.09355  1.0000
+  N   N5        1.0  0.81272  0.95588  0.46974  1.0000
+  N   N6        1.0  0.37601  0.54642  0.79643  1.0000
+  N   N7        1.0  0.05948  0.31628  0.17375  1.0000
+  N   N8        1.0  0.00238  0.43680  0.27083  1.0000
+  N   N9        1.0  0.29610  0.40739  0.57007  1.0000
+  N   N10       1.0  0.32065  0.61771  0.93728  1.0000

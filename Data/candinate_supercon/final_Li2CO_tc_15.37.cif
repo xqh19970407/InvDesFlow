@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Li2CO
+_chemical_formula_sum              "Li2 C1 O1"
+_cell_length_a       4.18276
+_cell_length_b       3.36552
+_cell_length_c       4.02507
+_cell_angle_alpha    125.208
+_cell_angle_beta     81.0088
+_cell_angle_gamma    73.7578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.20023  0.16584  0.52763  1.0000
+  Li  Li2       1.0  0.63210  0.01113  0.88051  1.0000
+  C   C1        1.0  0.04790  0.43512  0.18199  1.0000
+  O   O1        1.0  0.74255  0.61867  0.14820  1.0000

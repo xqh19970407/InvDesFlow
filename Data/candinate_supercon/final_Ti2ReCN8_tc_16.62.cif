@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti2ReCN8
+_chemical_formula_sum              "Ti2 Re1 C1 N8"
+_cell_length_a       5.58237
+_cell_length_b       10.8305
+_cell_length_c       9.90576
+_cell_angle_alpha    41.4301
+_cell_angle_beta     33.4738
+_cell_angle_gamma    58.6892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.22743  0.18560  0.42627  1.0000
+  Ti  Ti2       1.0  0.77681  0.07027  0.47456  1.0000
+  Re  Re1       1.0  0.05420  0.21897  0.86408  1.0000
+  C   C1        1.0  0.91846  0.18584  0.14016  1.0000
+  N   N1        1.0  0.58823  0.69353  0.87729  1.0000
+  N   N2        1.0  0.15417  0.54311  0.50512  1.0000
+  N   N3        1.0  0.09406  0.94281  0.81428  1.0000
+  N   N4        1.0  0.46620  0.52987  0.06482  1.0000
+  N   N5        1.0  0.16780  0.69850  0.35208  1.0000
+  N   N6        1.0  0.08407  0.07964  0.78717  1.0000
+  N   N7        1.0  0.39233  0.11868  0.22414  1.0000
+  N   N8        1.0  0.69595  0.22792  0.55115  1.0000

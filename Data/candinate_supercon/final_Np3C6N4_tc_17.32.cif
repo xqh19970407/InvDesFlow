@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Np3C6N4
+_chemical_formula_sum              "Np3 C6 N4"
+_cell_length_a       3.64453
+_cell_length_b       8.32592
+_cell_length_c       6.72429
+_cell_angle_alpha    62.8598
+_cell_angle_beta     83.6919
+_cell_angle_gamma    88.7524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.24491  0.45313  0.69153  1.0000
+  Np  Np2       1.0  0.71560  0.79601  0.76147  1.0000
+  Np  Np3       1.0  0.64306  0.36453  0.19913  1.0000
+  C   C1        1.0  0.16304  0.23003  0.09465  1.0000
+  C   C2        1.0  0.00285  0.59117  0.25269  1.0000
+  C   C3        1.0  0.20635  0.63619  0.05911  1.0000
+  C   C4        1.0  0.34410  0.14032  0.65515  1.0000
+  C   C5        1.0  0.30823  0.07342  0.22151  1.0000
+  C   C6        1.0  0.39402  0.90213  0.34890  1.0000
+  N   N1        1.0  0.25864  0.77026  0.53823  1.0000
+  N   N2        1.0  0.71745  0.50743  0.83843  1.0000
+  N   N3        1.0  0.16782  0.99862  0.73706  1.0000
+  N   N4        1.0  0.78117  0.51821  0.43244  1.0000

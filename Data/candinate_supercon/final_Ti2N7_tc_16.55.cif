@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti2N7
+_chemical_formula_sum              "Ti2 N7"
+_cell_length_a       6.50491
+_cell_length_b       4.01666
+_cell_length_c       5.63319
+_cell_angle_alpha    57.7359
+_cell_angle_beta     73.8911
+_cell_angle_gamma    102.151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.91863  0.53864  0.24396  1.0000
+  Ti  Ti2       1.0  0.59382  0.37870  0.92761  1.0000
+  N   N1        1.0  0.70016  0.05902  0.26890  1.0000
+  N   N2        1.0  0.25244  0.08047  0.02413  1.0000
+  N   N3        1.0  0.96664  0.82491  0.77113  1.0000
+  N   N4        1.0  0.49229  0.77573  0.98828  1.0000
+  N   N5        1.0  0.70194  0.69740  0.44926  1.0000
+  N   N6        1.0  0.31318  0.84582  0.95165  1.0000
+  N   N7        1.0  0.97077  0.15691  0.57029  1.0000

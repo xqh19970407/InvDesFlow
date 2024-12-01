@@ -8,7 +8,6 @@
 ### User Guide
 InvDesFlow can be used for the inverse design of functional materials, and we have conducted a series of experiments on high-temperature superconductors. InvDesFlow utilizes functionalities from multiple repositories (DiffCSP, MatAltMag, MEGNet, ALIGNN), each with different runtime environments. Users need to set up corresponding environments, which may not be very user-friendly. We aim to address this issue in future improvements. We will provide scripts to make the integration between functionalities smoother.
 
-
 ### Generate functional materials
 
 Before training the generative model, you need to set up the [DiffCSP](https://github.com/jiaor17/DiffCSP/tree/main) environment. We can train a generative model for functional materials using our private dataset. Here is a script that converts a directory containing CIF files into the DiffCSP data format. Run:
@@ -39,6 +38,15 @@ Coming soon.
 Coming soon.
 ### Predict the superconducting transition temperature of materials.
 Coming soon.
+
+### Data Description
+#### 1. **Candidate Superconducting Materials**
+- **Location**: `.Data/candinate_supercon/`
+- **Description**: This directory contains files related to the 74 candidate superconducting materials that we have predicted. These materials are being evaluated for their potential to exhibit high-temperature superconductivity.
+
+#### 2. **Training Data for Generative Models**
+- **Location**: `./Data/data_materials.csv`
+- **Description**: This file contains data on 105 superconducting materials that we have used to train our generative models. These materials serve as the basis for the development of AI-driven methods to predict new superconducting materials.
 
 
 ### Acknowledgments

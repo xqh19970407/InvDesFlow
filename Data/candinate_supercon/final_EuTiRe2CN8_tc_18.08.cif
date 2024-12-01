@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       EuTiRe2CN8
+_chemical_formula_sum              "Eu1 Ti1 Re2 C1 N8"
+_cell_length_a       5.21544
+_cell_length_b       5.7977
+_cell_length_c       8.08132
+_cell_angle_alpha    75.7955
+_cell_angle_beta     77.5719
+_cell_angle_gamma    62.616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.58885  0.25966  0.60899  1.0000
+  Ti  Ti1       1.0  0.95617  0.61294  0.37245  1.0000
+  Re  Re1       1.0  0.27726  0.91971  0.53704  1.0000
+  Re  Re2       1.0  0.19307  0.98171  0.22290  1.0000
+  C   C1        1.0  0.60386  0.93196  0.18877  1.0000
+  N   N1        1.0  0.09785  0.21323  0.84376  1.0000
+  N   N2        1.0  0.50634  0.63953  0.71870  1.0000
+  N   N3        1.0  0.26280  0.66825  0.41302  1.0000
+  N   N4        1.0  0.03472  0.24602  0.35722  1.0000
+  N   N5        1.0  0.85314  0.90969  0.15390  1.0000
+  N   N6        1.0  0.10205  0.25158  0.97937  1.0000
+  N   N7        1.0  0.69150  0.68692  0.57923  1.0000
+  N   N8        1.0  0.10281  0.16617  0.70722  1.0000

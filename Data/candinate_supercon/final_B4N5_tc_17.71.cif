@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       B4N5
+_chemical_formula_sum              "B4 N5"
+_cell_length_a       2.62903
+_cell_length_b       5.17961
+_cell_length_c       8.51082
+_cell_angle_alpha    105.192
+_cell_angle_beta     114.224
+_cell_angle_gamma    75.4592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.74207  0.96141  0.94928  1.0000
+  B   B2        1.0  0.37168  0.47881  0.47000  1.0000
+  B   B3        1.0  0.07097  0.94996  0.79504  1.0000
+  B   B4        1.0  0.75609  0.14235  0.25902  1.0000
+  N   N1        1.0  0.89924  0.60031  0.53631  1.0000
+  N   N2        1.0  0.71207  0.92569  0.11104  1.0000
+  N   N3        1.0  0.88005  0.85420  0.62325  1.0000
+  N   N4        1.0  0.31683  0.81596  0.95988  1.0000
+  N   N5        1.0  0.30059  0.24537  0.33091  1.0000
