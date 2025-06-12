@@ -82,13 +82,16 @@ The main framework of this codebase is built upon [DiffCSP](https://github.com/j
 
 Please consider citing our work if you find it helpful:
 ```
-@misc{han2024aiaccelerateddiscoveryhighcritical,
-      title={AI-accelerated discovery of high critical temperature superconductors}, 
-      author={Xiao-Qi Han and Zhenfeng Ouyang and Peng-Jie Guo and Hao Sun and Ze-Feng Gao and Zhong-Yi Lu},
-      year={2024},
-      eprint={2409.08065},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.supr-con},
-      url={https://arxiv.org/abs/2409.08065}, 
+@Article{cplHXQ,
+title = {InvDesFlow: An AI-Driven Materials Inverse Design Workflow to Explore Possible High-Temperature Superconductors},
+journal = {Chin. Phys. Lett.},
+volume = {42},
+number = {4},
+pages = {047301},
+year = {2025},
+issn = {},
+doi = {10.1088/0256-307X/42/4/047301},	
+url = {http://cpl.iphy.ac.cn/en/article/doi/10.1088/0256-307X/42/4/047301},
+author = {Xiao-Qi Han and Zhenfeng Ouyang and Peng-Jie Guo and Hao Sun and Ze-Feng Gao and Zhong-Yi Lu}
 }
 ```
