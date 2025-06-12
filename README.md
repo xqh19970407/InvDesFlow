@@ -2,7 +2,7 @@
 
 [**[Paper]**](https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/4/047301)
 
-![Overview](fig/InvDesFlow.png "Overview")
+![Overview](fig/InvDesFlow-CPL.png "Overview")
 
 
 ### User Guide
