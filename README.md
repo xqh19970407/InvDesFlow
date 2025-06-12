@@ -32,10 +32,27 @@ python generation_crystal.py --device 0 --count 200 --model_path your_model_path
 `--count 200` means to run the inference 200 times, with each run generating 1000 structures.
 The generated crystals are stored in `.pt` file format. Here, we provide an example to convert the `.pt` file into a `.cif` file in `InvDesFlow.ipynb`.
 
-### Determine the superconductivity of materials.
-Coming soon.
 ### Determine the stability of materials.
-Coming soon.
+1. Clone the [MEGNet](https://github.com/davidtangGT/MEGNET) repository to your local machine:
+   ```bash
+   git clone https://github.com/davidtangGT/MEGNET
+   ```
+2. Follow the instructions in the repository to install and activate the required environment.
+3. After activating the environment, `cd` into the MEGNet project directory:
+   ```bash
+   cd MEGNET
+   ```
+4. Copy our script (e.g., `pred_formation_energy.py`) into the MEGNet project directory.
+5. In the script, set the following two parameters:
+   ```python
+   cif_dir = ''  # Path to your CIF files directory
+   run_name = '' # Name of the run (can be any string you choose)
+   ```
+6. Then simply run the script:
+   ```bash
+   python pred_formation_energy.py
+   ```
+   
 ### Predict the superconducting transition temperature of materials.
 The ALIGNN project integrates models for predicting various materials properties. You can find all the available pretrained models for property prediction in [`alignn/alignn/pretrained.py`](https://github.com/usnistgov/alignn/blob/main/alignn/alignn/pretrained.py).
 For example, to predict the superconducting transition temperature, follow these steps:
