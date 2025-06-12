@@ -1,6 +1,6 @@
 # AI-accelerated discovery of high critical temperature superconductors
 
-[**[Paper]**](https://arxiv.org/pdf/2409.08065)
+[**[Paper]**](https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/4/047301)
 
 ![Overview](fig/InvDesFlow.png "Overview")
 
