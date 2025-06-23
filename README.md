@@ -42,8 +42,12 @@ The generated crystals are stored in `.pt` file format. Here, we provide an exam
    ```bash
    cd MEGNET
    ```
-4. Copy our script (e.g., `pred_formation_energy.py`) into the MEGNet project directory.You can download the formation energy prediction model from [this link](https://zenodo.org/records/14587716  ). This model, trained on 440,000 crystal structures, has strong generalization ability, achieving an accuracy of 21 meV. 
-5. In the script, set the following two parameters:
+4. Copy our script (e.g., `pred_formation_energy.py`) into the MEGNet project directory.You can download the formation energy prediction model from [this link](https://zenodo.org/records/14587716  ). This model, trained on 440,000 crystal structures, has strong generalization ability, achieving an accuracy of 21 meV. Then you need to set the path for this model. Add the model's name and path to the `MODEL_MAPPING` dictionary in the `/MEGNET/megnet/utils/models.py` script. This way, you can load the model (`pred_formation_energy.py`) as follows:
+   ```python
+   model_name = '44w_data_model'
+   model = load_model(model_name)
+   ```
+5. In the script(`pred_formation_energy.py`), set the following two parameters:
    ```python
    cif_dir = ''  # Path to your CIF files directory
    run_name = '' # Name of the run (can be any string you choose)
